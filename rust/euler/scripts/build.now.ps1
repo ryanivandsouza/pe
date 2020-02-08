@@ -1,0 +1,1 @@
+docker run -v ${PWD}:/build -t rust /build/scripts/build.sh
