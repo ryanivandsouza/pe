@@ -94,4 +94,4 @@ TBD
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ryanivandsouza](https://twitter.com/ryanivandsouza) - social.ryanivandsouza@pm.me
+Ryan Ivan D'Souza - [@ryanivandsouza](https://twitter.com/ryanivandsouza) - social.ryanivandsouza@pm.me
