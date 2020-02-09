@@ -1,0 +1,1 @@
+docker run -v ${PWD}:/build -it golang /build/scripts/run.sh
